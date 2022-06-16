@@ -71,7 +71,7 @@ MongoClient.connect(connectionString)
 .then(client => {
     console.log ('Connected to DB')
     const db =client.db('StarTrekAPI')
-    const infoCollection =db.collection ('alienInfo')
+    const infoCollection =db.collection ('StarTrekAPI.alienInfo')
 
 
 app.get('/', (request, response)=>{
