@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
+
+body{
+    background-color: beige;
+    margin-left: 20px
+}
