@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
+
+body{
+    background-color: beige;
+    margin-left: 20px
+}
+h2{
+    color: red;
+    text-align: center;
+}
+
+input{
+    color: blueviolet;
+    text-align: center;
+}
